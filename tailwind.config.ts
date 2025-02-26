@@ -11,6 +11,8 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        gradientOne: '#31C1B0',
+        gradientTwo: '#5431C1',
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         card: {
